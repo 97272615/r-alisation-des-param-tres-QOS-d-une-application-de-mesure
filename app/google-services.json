@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8909643486",
+    "firebase_url": "https://mesure-qos-et-qoe.firebaseio.com",
+    "project_id": "mesure-qos-et-qoe",
+    "storage_bucket": "mesure-qos-et-qoe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8909643486:android:64dc6a4829cf9438",
+        "android_client_info": {
+          "package_name": "com.ns.qosetqoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8909643486-6h4a73571edvh4lqt7ak9cq41snepjer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhTaR5H3AFdiYMQ648Eu3U5Dn3eLs0Jkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8909643486-6h4a73571edvh4lqt7ak9cq41snepjer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
