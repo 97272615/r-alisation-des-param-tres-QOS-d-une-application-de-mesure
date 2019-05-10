@@ -33,10 +33,22 @@ public class KpiDialog extends Dialog {
         binding.setItem(item);
         binding.setDialog(this);
         setContentView(binding.getRoot());
-
     }
 
     public void onButtonClicked(View view) {
         int id = view.getId();
+
+        switch (id) {
+            case R.id.btn_ok:
+                dismiss();
+                break;
+
+            case R.id.btn_compare:
+                compareData();
+        }
+    }
+
+    private void compareData() {
+
     }
 }
